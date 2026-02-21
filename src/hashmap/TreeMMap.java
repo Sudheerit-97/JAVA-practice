@@ -16,6 +16,7 @@ public class TreeMMap {
 	    empdata.put("ankit", "sdet4"); 
 	    empdata.put("roni", "sdet1"); 
 	    empdata.put("Ankit", "sdet4");  
+	    empdata.put("anshika", "sdet4");  
 	    //empdata.put(null, "sdet4");
 	    //empdata.put("sudheer", null);
 	    // null key entry is not alloowed in tree map
